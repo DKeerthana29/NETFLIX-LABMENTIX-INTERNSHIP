@@ -63,6 +63,6 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
-**Conclusion**
 
+**Conclusion**
 This project demonstrates how EDA and Machine Learning can be used to analyze movie data and predict ratings. The insights gained can help in making better business decisions in the entertainment industry.
