@@ -1,6 +1,8 @@
 # NETFLIX-LABMENTIX-INTERNSHIP
 Netflix project with Amazon Prime EDA 
 Movie Data Analysis & Rating Prediction
+
+
 **Project Overview**
 
 This project focuses on Exploratory Data Analysis (EDA) and Machine Learning (ML) on a movie dataset. The goal is to analyze trends, patterns, and relationships in movie data and build a predictive model to estimate IMDb ratings.
